@@ -18,6 +18,7 @@
   "license": "ISC",
   "readmeFilename": "README.md",
   "dependencies": {
+    "agentkeepalive": "^3.0.0",
     "nan": "^2.3.5"
   },
   "devDependencies": {
